@@ -20,4 +20,13 @@ associated with amyotrophic lateral sclerosis (ALS).
 
 GitHub Link: https://github.com/byin-cwi/ALS-Deeplearning
 
+Paper 3: 
+
+Prediction of Alzheimer's disease based on deep neural network by integrating gene expression and 
+DNA methylation dataset (https://www.sciencedirect.com/science/article/pii/S0957417419305834)
+
+This paper uses genomic data and methylation sites on DNA to create an Alzheimer's Diseases 
+prediction model. 
+
+GitHub Link: https://github.com/ChihyunPark/DNN_for_ADprediction
 
