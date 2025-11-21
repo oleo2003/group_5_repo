@@ -52,9 +52,10 @@ This document tracks all papers we have actually tried to reproduce: what we ran
 	- pandas 0.24.2
 	- scikit-learn 0.21.0
 	- tensorflow 1.4.1
-		***How:*** 
-		1. nano Dockerfile
-		2.inside: 
+		
+	***How:*** 
+		- nano Dockerfile
+		- inside file: 
  
 			FROM tensorflow/tensorflow:1.5.0-py3
 
