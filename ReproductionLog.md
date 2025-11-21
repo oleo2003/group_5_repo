@@ -47,14 +47,15 @@ This document tracks all papers we have actually tried to reproduce: what we ran
 
 - checked all content is there: compile steps, code, data
 - Used Docker to contain the specific tools needed:
-	python 3.5
-	numpy 1.16.3
-	pandas 0.24.2
-	scikit-learn 0.21.0
-	tensorflow 1.4.1
-		How: 
+	- python 3.5
+	- numpy 1.16.3
+	- pandas 0.24.2
+	- scikit-learn 0.21.0
+	- tensorflow 1.4.1
+		***How:*** 
 		1. nano Dockerfile
-		2.inside:  
+		2.inside: 
+ 
 			FROM tensorflow/tensorflow:1.5.0-py3
 
 			ENV DEBIAN_FRONTEND=noninteractive
