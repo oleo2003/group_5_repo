@@ -1,37 +1,63 @@
-Biologist 1: Jona
+# Biologist 1: Jona
 
+---
 
-Paper 1: Identifying drug targets for neurological and psychiatric disease via genetics and the brain transcriptome 
-    
-    Paper Link: https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009224
+## Paper 1  
+### **Identifying Drug Targets for Neurological and Psychiatric Disease via Genetics and the Brain Transcriptome**
 
-    Summary: This 2021 paper uses Mendelian randomization (MR) and colocalization analysis to identify potential drug targets for neurological and psychiatric diseases by linking brain gene expression to disease risk.
+**Paper Link:**  
+https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009224  
 
-    Methodology: Combined two-sample MR (to establish causal relationships) with Bayesian colocalization (to confirm shared genetic variants) using brain-specific expression data rather than blood proxies
+**Summary:**  
+This 2021 paper uses Mendelian randomization (MR) and colocalization analysis to identify potential drug targets for neurological and psychiatric diseases by linking brain gene expression to disease risk.
 
-    GitHub Link: https://github.com/denisbrd/braineQTLMR_datasets/tree/v1.01
+**Methodology:**  
+Combined two-sample MR (to establish causal relationships) with Bayesian colocalization (to confirm shared genetic variants) using brain-specific expression data rather than blood proxies.
 
-    REMOVE THIS PAPER!! - cannot access the code
-    
+**GitHub Link:**  
+https://github.com/denisbrd/braineQTLMR_datasets/tree/v1.01  
 
-Paper 2: Using the structure of genome data in the design of deep neural networks for predicting amyotrophic lateral sclerosis from 
-genotype
+**Notes:**  
+- Code is **not accessible**, which may limit reproducibility or use in our project.
 
-    Paper Link: https://academic.oup.com/bioinformatics/article/35/14/i538/5529261
+---
 
-    Summary: This paper uses deep learning in an attempt to identify disease-associated genetic varients of regulatory egions that may be  associated with amyotrophic lateral sclerosis (ALS). 
+## Paper 2  
+### **Using the Structure of Genome Data in the Design of Deep Neural Networks for Predicting ALS from Genotype**
 
-    GitHub Link: https://github.com/byin-cwi/ALS-Deeplearning
+**Paper Link:**  
+https://academic.oup.com/bioinformatics/article/35/14/i538/5529261  
 
-    The code for this seems to me to be feasible for our project. The only language used is python and the raw files are not very long. This project also uses many python tools that we has been discussed in the content of our lectures. For examples, they make use of libraries such as pandas and numpy as well as pytorch and scikitlearn. This could be useful in learning how these different tools can be utilized to analyze biological data to produce meaningful results. The only thing that might cause issues is I am not sure if the text file included is the correct dataset needed to run through this code. 
+**Summary:**  
+This paper uses deep learning to identify disease-associated genetic variants in regulatory regions that may be linked to amyotrophic lateral sclerosis (ALS).
 
-Paper 3: Prediction of Alzheimer's disease based on deep neural network by integrating gene expression and DNA methylation dataset 
-   
-    Paper Link: https://www.sciencedirect.com/science/article/pii/S0957417419305834
+**GitHub Link:**  
+https://github.com/byin-cwi/ALS-Deeplearning  
 
-    Summary: This paper uses genomic data and methylation sites on DNA to create an Alzheimer's Diseases  prediction model. 
+**Notes:**  
+- The code is feasible for our project.  
+- Fully written in Python; files are not very long.  
+- Uses tools from lectures (**pandas**, **numpy**, **PyTorch**, **scikit-learn**).  
+- May be useful for learning how these tools analyze biological data.  
+- Some uncertainty if the included text file is the correct dataset for running the code.
 
-    GitHub Link: https://github.com/ChihyunPark/DNN_for_ADprediction
+---
 
-    This code seems like it might work. It is mostly python with just a little bit of R, which our engineer has some experience with so it should'nt cause too many issues. It doesn't seem like there is anything too complicated regarding the prediction models that the code implements however the datasets included are very large and it may take a long time to get the code to run. 
+## Paper 3  
+### **Prediction of Alzheimer's Disease Based on Deep Neural Network Integrating Gene Expression and DNA Methylation**
+
+**Paper Link:**  
+https://www.sciencedirect.com/science/article/pii/S0957417419305834  
+
+**Summary:**  
+This paper integrates genomic data and DNA methylation features to build a model predicting Alzheimer’s disease.
+
+**GitHub Link:**  
+https://github.com/ChihyunPark/DNN_for_ADprediction  
+
+**Notes:**  
+- Code is mostly Python, with a little R.  
+- Prediction model is not overly complicated.  
+- Large datasets may make the pipeline slow to run.  
+
 
