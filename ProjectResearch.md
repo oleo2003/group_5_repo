@@ -2,7 +2,7 @@
 
 ---
 
-## Paper 1  
+## Paper 1 ❌
 ### **Identifying Drug Targets for Neurological and Psychiatric Disease via Genetics and the Brain Transcriptome**
 
 **Paper Link:**  
@@ -18,7 +18,7 @@ Combined two-sample MR (to establish causal relationships) with Bayesian colocal
 https://github.com/denisbrd/braineQTLMR_datasets/tree/v1.01  
 
 **Notes:**  
-- Code is **not accessible**, which may limit reproducibility or use in our project.
+- Code is **not accessible**, which may limit reproducibility or use in our project. 
 
 ---
 
