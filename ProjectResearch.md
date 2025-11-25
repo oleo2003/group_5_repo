@@ -60,4 +60,29 @@ https://github.com/ChihyunPark/DNN_for_ADprediction
 - Prediction model is not overly complicated.  
 - Large datasets may make the pipeline slow to run.  
 
+---
 
+## Paper 4
+### **Towards Personalized Medicine in Cystic Fibrosis : Patient-Specific Modeling of Mucociliary Clearance Using Physiologically-Based Flow 
+Constraints**
+
+**Paper Link:**
+https://www.proquest.com/docview/3132883329/fulltextPDF/72D991F7FC2349E8PQ/1?accountid=10932&sourcetype=Dissertations%20&%20Theses
+
+**Summary:**
+This paper creates a model to make mucus-clearing treatment for cystic 
+fibrosis more personalized, taking into account variablilty in lung 
+regions.
+   
+**GitHub Link:**
+https://github.com/monshap/psanalysis/tree/master
+- Sample Images are located uner "tests" 
+
+**Notes:**
+- The code seems feasible for the project. 
+- It is entirely in Python
+- Uses libraries such as NumPy 
+- The paper is long as it is a PhD manuscript but this also means that 
+there is a lot of explanation for what the different parts of the code is 
+used for. 
+- The appendix walks you through the code
