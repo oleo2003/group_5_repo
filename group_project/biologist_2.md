@@ -9,7 +9,21 @@ GitHub Link: https://github.com/articlesmli/IUPAC_ML_model_TDP1.git
 
 Notes:
 * The code is feasible for our project
-* written in Python
+* .ipynb file type
 * uses libraries familiar from class (e.g., pandas, scikit-learn)
 * May be useful for learning how these tools analyze biological data
 * Dataset and instructions are clearly documented in the GitHub repo
+
+Paper 2
+Dual inhibition of AChE and MAO-B in Alzheimer’s disease: machine learning approaches and model interpretations
+
+Paper Link: https://link.springer.com/article/10.1007/s11030-024-11061-x?fromPaywallRec=false#Abs1
+
+Summary: This paper describes how five machine learning algorithms, four fingerprints, and DRAGON descriptors were combined to develop 25 classification models that were used to examine dual-target inhibition of Acetylchonesterase (AChE) and Monoamine oxidase (MAO-B) in treatment of Alzheimer’s disease (AD). 
+
+GitHub Link: https://github.com/houzhe122/AChE-MAOB-Models
+
+Notes:
+* The code is feasible for our project
+* Largely written in Python, with additional .csv files
+* Shorter paper with clear figures
