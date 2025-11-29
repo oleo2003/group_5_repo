@@ -9,10 +9,12 @@ GitHub Link: https://github.com/articlesmli/IUPAC_ML_model_TDP1.git
 
 Notes:
 * The code is feasible for our project
-* .ipynb file type
-* uses libraries familiar from class (e.g., pandas, scikit-learn)
+* .ipynb files
+* Likely uses libraries familiar from class (e.g., pandas, scikit-learn)
 * May be useful for learning how these tools analyze biological data
 * Dataset and instructions are clearly documented in the GitHub repo
+
+
 
 Paper 2
 Dual inhibition of AChE and MAO-B in Alzheimer’s disease: machine learning approaches and model interpretations
@@ -27,3 +29,58 @@ Notes:
 * The code is feasible for our project
 * Largely written in Python, with additional .csv files
 * Shorter paper with clear figures
+
+
+Paper 3
+A machine-learning based objective measure for ALS disease severity
+
+Paper Link: https://www.nature.com/articles/s41746-022-00588-8#Abs1
+
+Summary: This paper attempts to model an objective way of measuring severity of Amyotrophic Lateral Sclerosis (ALS), which has previously only been measured through subjective Functional Rating Scale. A machine learning based measure of ALS severity  based off of a longitudinal dataset of voice recording and accelerometer samples evaluated the efficacy of the edaravone drug. 
+
+GitHub Link:  https://github.com/pmphelp/paper-code
+
+Notes:
+* The code is feasible for our project
+* Code is written in Python and cohesively organized on Github
+* Very short paper with clear language
+
+Paper 4
+At-home wearables and machine learning sensitively capture disease progression in amyotrophic lateral sclerosis
+
+Paper Link: https://www.nature.com/articles/s41467-023-40917-3#Abs1
+
+Summary: This study uses wearable sensors and machine-learning analysis of natural limb movements to generate an objective, sensitive measure of ALS progression that outperforms traditional clinical rating scales and could reduce clinical trial sample sizes.
+
+GitHub Link: https://github.com/neuropheno-org/Pairwise_model_code
+
+Notes:
+* The case is pertinent to our groups conversation 
+* Github code seems to be in Matlab format
+
+
+Paper 5
+Classification of schizophrenia, bipolar disorder and major depressive disorder with comorbid traits and deep learning algorithms
+
+Paper Link: https://www.nature.com/articles/s41467-023-40917-3#Abs1
+
+Summary: This study shows that polygenic risk scores (PRSs) from traits comorbid with schizophrenia, bipolar disorder, and major depression can accurately classify and distinguish these disorders, even without disorder-specific genetic information, by combining target specific PRS with PRSs of comorbid traits.
+
+GitHub Link: https://github.com/mdsamchen/scz_bip_mdd
+
+Notes: 
+* Feasible for our project
+* Code is in python
+
+Paper 6
+Deep learning-based polygenic scores enhance generalizability of psychiatric disorders prediction
+
+Paper Link: https://pmc.ncbi.nlm.nih.gov/articles/PMC12083566/#ABS1
+
+Summary: This study finds that deep learning and linear models perform similarly for predicting psychiatric disorders from genetic data, but deep learning shows slightly better generalization for some traits by combining individual-level, GWAS-based, and family genetic risk scores.
+
+GitHub Link: https://github.com/leocob/eirpsy/blob/main/02_bigstatsr/bigstatsr_pipeline_test.smk
+
+Notes: 
+* I am not sure what format Github code is in…it seems that there are multiple formats? 
+* This paper has not been reviewed by a journal officially. Can we still use it? 
