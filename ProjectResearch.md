@@ -63,8 +63,7 @@ https://github.com/ChihyunPark/DNN_for_ADprediction
 ---
 
 ## Paper 4
-### **Towards Personalized Medicine in Cystic Fibrosis : Patient-Specific Modeling of Mucociliary Clearance Using Physiologically-Based Flow 
-Constraints**
+### **Towards Personalized Medicine in Cystic Fibrosis : Patient-Specific Modeling of Mucociliary Clearance Using Physiologically-Based Flow Constraints**
 
 **Paper Link:**
 https://www.proquest.com/docview/3132883329/fulltextPDF/72D991F7FC2349E8PQ/1?accountid=10932&sourcetype=Dissertations%20&%20Theses
@@ -86,3 +85,25 @@ https://github.com/monshap/psanalysis/tree/master
 there is a lot of explanation for what the different parts of the code is 
 used for. 
 - The appendix walks you through the code
+
+---
+
+## Paper 5
+### **Using genomic data and machine learning to predict antibiotic resistance: A tutorial paper**
+
+**Paper Link**
+https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012579
+
+**Summary**
+The paper is a tutorial guiding how to apply machine learning (ML) on bacterial genomic data to predict antibiotic resistance (phenotype). It focuses on data from many 
+isolates of Escherichia coli (E. coli), with known resistance/susceptibility profiles against a panel of antibiotics, and corresponding genomic data.
+
+**GitHub Link**
+https://github.com/Lucy-Moctezuma/ML-Tutorial-for-Antibiotic-Resistance-Predictions-for-E.-Coli
+
+**Notes**
+- This code seems feasible. 
+- The code is written in Colab which makes it easily reproducible
+- Uses common prediction models and is meant to be for beginners so might be easier to implement 
+- This paper is a tutorial paper, it takes data from a study that is cited in the paper 
+- The data provides is preprocessed
