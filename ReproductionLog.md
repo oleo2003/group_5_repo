@@ -101,7 +101,7 @@ This document tracks all papers we have actually tried to reproduce: what we ran
 - update: gave up running; would try on cluster but takes a few weeks to set up...
 
 
-##Paper 4 - Towards Personalized Medicine in Cystic Fibrosis : Patient-Specific Modeling of Mucociliary Clearance Using Physiologically-Based Flow Constraints
+## Paper 4 - Towards Personalized Medicine in Cystic Fibrosis : Patient-Specific Modeling of Mucociliary Clearance Using Physiologically-Based Flow Constraints
 - ** Link to paper **:  https://www.proquest.com/docview/3132883329/fulltextPDF/72D991F7FC2349E8PQ/1?accountid=10932&sourcetype=Dissertations%20&%20Theses
 - ** Code Link **:https://github.com/monshap/psanalysis/tree/master
 **What we tried**
