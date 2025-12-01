@@ -1,7 +1,8 @@
-# Paper Reproduction Log
+# Paper Reproduction Log - Engineer 1: Liv Lanford
 
 This document tracks all papers we have actually tried to reproduce: what we ran, what broke, and what worked.
 
+# Biologist 1's papers: Jona
 
 ### Paper 1 – Identifying Drug Targets for Neurological and Psychiatric Disease via Genetics and the Brain Transcriptome
 
@@ -97,4 +98,15 @@ This document tracks all papers we have actually tried to reproduce: what we ran
 
 **Conclusion**
 - Keep trying to run, but look for other papers as well
- 
+- update: gave up running; would try on cluster but takes a few weeks to set up...
+
+
+##Paper 4 - Towards Personalized Medicine in Cystic Fibrosis : Patient-Specific Modeling of Mucociliary Clearance Using Physiologically-Based Flow Constraints
+- ** Link to paper **:  https://www.proquest.com/docview/3132883329/fulltextPDF/72D991F7FC2349E8PQ/1?accountid=10932&sourcetype=Dissertations%20&%20Theses
+- ** Code Link **:https://github.com/monshap/psanalysis/tree/master
+**What we tried**
+- downloaded repo from git hub using "git clone"
+- followed the directions written in the thesis to download the psanalysis tool they created.
+- ran code smoothly on the sample data provided but no set output...
+- to see if anything happened, i generated my own graphs:
+- these demonstrated that the program worked to take in 2D planar gamma scintigraphy images of patients and then parse into a matrix for analysis. However, the sample data given cannot recreate the study's findings that hypertonic saline therapy improves mucociliary clearance (MCC) in the lungs. It only shows that the matrix accurately portrays mucus transport and ventilation in the lungs TO BE analyzed. Teh actual data used in the study is sensitive patient information = unaccesible.   
