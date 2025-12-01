@@ -22,7 +22,7 @@ https://github.com/denisbrd/braineQTLMR_datasets/tree/v1.01
 
 ---
 
-## Paper 2  
+## Paper 2 ❌  
 ### **Using the Structure of Genome Data in the Design of Deep Neural Networks for Predicting ALS from Genotype**
 
 **Paper Link:**  
@@ -43,7 +43,7 @@ https://github.com/byin-cwi/ALS-Deeplearning
 
 ---
 
-## Paper 3  
+## Paper 3 ❌
 ### **Prediction of Alzheimer's Disease Based on Deep Neural Network Integrating Gene Expression and DNA Methylation**
 
 **Paper Link:**  
@@ -62,7 +62,7 @@ https://github.com/ChihyunPark/DNN_for_ADprediction
 
 ---
 
-## Paper 4
+## Paper 4 (MAYBE)
 ### **Towards Personalized Medicine in Cystic Fibrosis : Patient-Specific Modeling of Mucociliary Clearance Using Physiologically-Based Flow Constraints**
 
 **Paper Link:**
@@ -88,7 +88,7 @@ used for.
 
 ---
 
-## Paper 5
+## Paper 5 (MAYBE)
 ### **Using genomic data and machine learning to predict antibiotic resistance: A tutorial paper**
 
 **Paper Link**
@@ -108,11 +108,9 @@ https://github.com/Lucy-Moctezuma/ML-Tutorial-for-Antibiotic-Resistance-Predicti
 - This paper is a tutorial paper, it takes data from a study that is cited in the paper 
 - The data provides is preprocessed
 
-
 --
 
-
-## Paper 6
+## Paper 6 ❌
 ### **Modeling functional cell types in spike train data**
 
 **Paper Link**
@@ -131,4 +129,22 @@ https://github.com/zdeblick/ClusteredGLMs
 - The paper describes hyperparameters explicitly
 - The authors provide details about how they structured the GLM
 
+---
+
+## Paper 7 ❌
+### **A computational approach to study age-related modifications of the genes involved in Parkinson's disease**
+
+**Paper Link**
+https://www.sciencedirect.com/science/article/pii/S0010482525011163
+
+**Summary** 
+The paper titled “A computational approach to study age-related …” (2025) uses network analysis and pathway‐enrichment analysis to examine how gene–gene interactions and 
+biological pathways shift in an age-dependent manner. Rather than focusing on single genes, the authors build a gene-expression network (or networks), then identify modules 
+or subnetworks that show changes with age; these modules map to biological processes or pathways.
+
+**GitHub Link**
+https://github.com/mmilano87/tegena
+
+**Notes**
+- most of the computational workflow in that paper can be reproduced using Python
 
