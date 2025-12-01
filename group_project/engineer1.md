@@ -114,3 +114,23 @@ This document tracks all papers we have actually tried to reproduce: what we ran
 **Conclusion**
 - not ideal because we can't reproduce their findings
 - good fall back because we did validate their mucus tracking program! 
+
+## Paper 5 - Using genomic data and machine learning to predict antibiotic resistance: A tutorial paper
+- ** Code link **:  https://github.com/Lucy-Moctezuma/ML-Tutorial-for-Antibiotic-Resistance-Predictions-for-E.-Coli
+**What we tried**
+**Conclusion**
+
+
+## Paper 6 - Modeling functional cell types in spike train data
+- **Code **: https://github.com/zdeblick/ClusteredGLMs
+**What we tried**
+- cloned the repo and created conda env: conda create -n clusteredglm python=3.10 -y
+	- conda install -y numpy scipy pandas scikit-learn statsmodels matplotlib
+	- pip install h5py requests tqdm
+	- conda install -c conda-forge allensdk -y
+	- pip install allensdk
+	- python data_grabber.py
+- the "python data_grabber.py" command has been running forever... I am giving up.
+
+**Conclusion**
+- could have been so cool and probably would have worked, but i need the cluster....
