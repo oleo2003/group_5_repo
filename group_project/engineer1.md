@@ -118,7 +118,11 @@ This document tracks all papers we have actually tried to reproduce: what we ran
 ## Paper 5 - Using genomic data and machine learning to predict antibiotic resistance: A tutorial paper
 - ** Code link **:  https://github.com/Lucy-Moctezuma/ML-Tutorial-for-Antibiotic-Resistance-Predictions-for-E.-Coli
 **What we tried**
+- ran everything fine in the jupyter notebook 
+- until I got to the second half of the first part, where the data file they used was preprocessed. And those processing details were nto provided :(. 
+
 **Conclusion**
+- could come back to if really need to, but it would be a pain to figure out how to get it to work.
 
 
 ## Paper 6 - Modeling functional cell types in spike train data
