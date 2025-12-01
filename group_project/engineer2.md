@@ -2,7 +2,7 @@
 
 # Biologist 2's papers
 
-Paper 1 – Targeting Neurodegeneration: Three Machine Learning Methods for G9a Inhibitors Discovery Using PubChem and Scikit-learn
+Paper 1 – Targeting Neurodegeneration: three machine learning methods for G9a inhibitors discovery Using PubChem and scikit-learn
 
 - **Link to paper**: [https://doi.org/10.1007/s10822-025-00642-z](https://doi.org/10.1007/s10822-025-00642-z)
 - **Code repo**: [https://github.com/articlesmli/G9a_Inhibitors_efficacy](https://github.com/articlesmli/G9a_Inhibitors_efficacy)
