@@ -107,3 +107,28 @@ https://github.com/Lucy-Moctezuma/ML-Tutorial-for-Antibiotic-Resistance-Predicti
 - Uses common prediction models and is meant to be for beginners so might be easier to implement 
 - This paper is a tutorial paper, it takes data from a study that is cited in the paper 
 - The data provides is preprocessed
+
+
+--
+
+
+## Paper 6
+### **Modeling functional cell types in spike train data**
+
+**Paper Link**
+https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011509
+
+**Summary**
+This paper introduces a statistical method to identify functional cell types directly from neural spike-train data. Instead of classifying neurons based on anatomy or gene 
+expression, the method groups neurons by the similarity in their firing behavior.They use a hierarchical model where each cell type defines distributions over GLM parameters 
+for neurons, and they fit everything jointly using a variational EM algorithm.
+
+**GitHub Link**
+https://github.com/zdeblick/ClusteredGLMs
+
+**Notes**
+- Code seems very feasible a it uses basic Python coding 
+- The paper describes hyperparameters explicitly
+- The authors provide details about how they structured the GLM
+
+
