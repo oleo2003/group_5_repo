@@ -109,4 +109,8 @@ This document tracks all papers we have actually tried to reproduce: what we ran
 - followed the directions written in the thesis to download the psanalysis tool they created.
 - ran code smoothly on the sample data provided but no set output...
 - to see if anything happened, i generated my own graphs:
-- these demonstrated that the program worked to take in 2D planar gamma scintigraphy images of patients and then parse into a matrix for analysis. However, the sample data given cannot recreate the study's findings that hypertonic saline therapy improves mucociliary clearance (MCC) in the lungs. It only shows that the matrix accurately portrays mucus transport and ventilation in the lungs TO BE analyzed. Teh actual data used in the study is sensitive patient information = unaccesible.   
+- these demonstrated that the program worked to take in 2D planar gamma scintigraphy images of patients and then parse into a matrix for analysis. However, the sample data given cannot recreate the study's findings that hypertonic saline therapy improves mucociliary clearance (MCC) in the lungs. It only shows that the matrix accurately portrays mucus transport and ventilation in the lungs TO BE analyzed. Teh actual data used in the study is sensitive patient information = unaccesible.  
+
+**Conclusion**
+- not ideal because we can't reproduce their findings
+- good fall back because we did validate their mucus tracking program! 
