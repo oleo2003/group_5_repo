@@ -148,3 +148,23 @@ https://github.com/mmilano87/tegena
 **Notes**
 - most of the computational workflow in that paper can be reproduced using Python
 
+---
+
+## Paper 8 
+### **Persistent Interruption in Parvalbumin-Positive Inhibitory Interneurons: Biophysical and Mathematical Mechanisms**
+
+**Paper Link**
+https://pubmed.ncbi.nlm.nih.gov/38886063/
+
+**Summary**
+The study shows that in hippocampal CA1, fast-spiking interneurons that express the protein parvalbumin (PV-INs) exhibit “type 2” excitability. Using mathematical modeling 
+and biophysical analysis, the authors demonstrate that a slowly inactivating potassium current (via the channel KV1) can produce robust, persistent interruption of firing in 
+these PV-INs — meaning after an inhibitory input, the interneuron can remain silent for an extended time before resuming firing.
+
+**GitHub Link**
+https://github.com/ModelDBRepository/2016658
+
+**Notes**
+- The core results come from computational modeling, not difficult lab experiments.
+- Biophysical neuron models are well-established — many exist already with PV-interneuron properties and KV1 channels.
+
