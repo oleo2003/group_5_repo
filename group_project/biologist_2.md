@@ -98,3 +98,15 @@ GitHub Link: https://github.com/Aarhus-Psychiatry-Research/psycop-common/tree/
 Notes: 
 * Really interesting topic for public healthcare admin, but I am not sure how publicly available data is for use
 
+Paper 8
+Multimodal Machine Learning Workflows for Prediction of Psychosis in Patients With Clinical High-Risk Syndromes and Recent-Onset Depression
+
+Paper Link: https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2773732
+
+Summary: This study looks for a transition to psychosis be predicted in patients with clinical high-risk states or recent-onset depression by optimally integrating clinical, neurocognitive, neuroimaging, and genetic information with clinicians’ prognostic estimates. Personalized prevention is utilized via prognostic workflows
+
+GitHub Link: https://github.com/neurominer-git/NeuroMiner-1]
+
+Notes: 
+* Data was analyzed a while ago (2019-2020), so may not be runnable. 
+* Also, the reproducibility is weak because of the model of individual prognostic estimates it seems
