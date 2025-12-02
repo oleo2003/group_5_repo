@@ -84,3 +84,17 @@ GitHub Link: https://github.com/leocob/eirpsy/blob/main/02_bigstatsr/bigstatsr
 Notes: 
 * I am not sure what format Github code is in…it seems that there are multiple formats? 
 * This paper has not been reviewed by a journal officially. Can we still use it? 
+
+Paper 7
+Predicting involuntary admission following inpatient psychiatric treatment using machine learning trained on electronic health record data
+
+
+Paper Link: https://www-cambridge-org.avoserv2.library.fordham.edu/core/journals/psychological-medicine/article/predicting-involuntary-admission-following-inpatient-psychiatric-treatment-using-machine-learning-trained-on-electronic-health-record-data/BA8F21BBB66E0A6E49D792123C3FC093
+
+Summary: This study looks at psychiatric admittance retrospectively using machine learning through EHR.
+
+GitHub Link: https://github.com/Aarhus-Psychiatry-Research/psycop-common/tree/main/psycop/projects/forced_admission_inpatient.
+
+Notes: 
+* Really interesting topic for public healthcare admin, but I am not sure how publicly available data is for use
+
