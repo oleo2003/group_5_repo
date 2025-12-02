@@ -122,3 +122,17 @@ GitHub Link: https://github.com/NADonnelly/nd_cnv_ml,
 
 Notes: 
 * Reproducible data, seemingly easily formatted, and fitted models are presented as an interactive Shiny app: https://nadonnelly.shinyapps.io/cnv_ml_app/. 
+
+
+Paper 10
+An evaluation of machine learning approaches for early diagnosis of autism spectrum disorder
+
+Paper Link: https://www.sciencedirect.com/science/article/pii/S2772442523001600
+
+Summary: Eight classification models and five clustering methods to ASD datasets to make a unique population dataset for a holistic assessment for machine learning approaches for early diagnosis of Autism Spectrum Disorder (ASD).
+
+GitHub Link: https://github.com/diponkor-bala/Autism-Spectrum-Disorder
+
+Notes: 
+* Combined format of Jupyter notebook and Python code. Looks reproducible
+
