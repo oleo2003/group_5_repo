@@ -163,7 +163,7 @@ https://github.com/mmilano87/tegena
 ### **Persistent Interruption in Parvalbumin-Positive Inhibitory Interneurons: Biophysical and Mathematical Mechanisms**
 
 **Paper Link**
-https://pubmed.ncbi.nlm.nih.gov/38886063/
+https://www.eneuro.org/content/11/7/ENEURO.0190-24.2024/tab-e-letters - download pdf
 
 **Summary**
 The study shows that in hippocampal CA1, fast-spiking interneurons that express the protein parvalbumin (PV-INs) exhibit “type 2” excitability. Using mathematical modeling 
