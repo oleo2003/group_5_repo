@@ -62,7 +62,7 @@ https://github.com/ChihyunPark/DNN_for_ADprediction
 
 ---
 
-## Paper 4 (MAYBE)
+## Paper 4 ❌
 ### **Towards Personalized Medicine in Cystic Fibrosis : Patient-Specific Modeling of Mucociliary Clearance Using Physiologically-Based Flow Constraints**
 
 **Paper Link:**
@@ -85,10 +85,12 @@ https://github.com/monshap/psanalysis/tree/master
 there is a lot of explanation for what the different parts of the code is 
 used for. 
 - The appendix walks you through the code
+- The sample data provided is used only to validate that the program works not to provide any 
+information
 
 ---
 
-## Paper 5 (MAYBE)
+## Paper 5 ❌
 ### **Using genomic data and machine learning to predict antibiotic resistance: A tutorial paper**
 
 **Paper Link**
@@ -107,6 +109,11 @@ https://github.com/Lucy-Moctezuma/ML-Tutorial-for-Antibiotic-Resistance-Predicti
 - Uses common prediction models and is meant to be for beginners so might be easier to implement 
 - This paper is a tutorial paper, it takes data from a study that is cited in the paper 
 - The data provides is preprocessed
+- Most of the notebooks ran successfully 
+- Some minor issues regarding out-dates versions of library features
+- Could not get the 5th and 6th notebook to run but it seemed more like an  issue with using Google 
+Drive than with the code
+
 
 --
 
@@ -128,6 +135,7 @@ https://github.com/zdeblick/ClusteredGLMs
 - Code seems very feasible a it uses basic Python coding 
 - The paper describes hyperparameters explicitly
 - The authors provide details about how they structured the GLM
+- Takes entirely too long to run
 
 ---
 
@@ -147,10 +155,11 @@ https://github.com/mmilano87/tegena
 
 **Notes**
 - most of the computational workflow in that paper can be reproduced using Python
+- Output generated was incomplete, could not figure out was missing from the code 
 
 ---
 
-## Paper 8 
+## Paper 8 - SUCCESS!
 ### **Persistent Interruption in Parvalbumin-Positive Inhibitory Interneurons: Biophysical and Mathematical Mechanisms**
 
 **Paper Link**
