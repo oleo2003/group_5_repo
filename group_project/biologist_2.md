@@ -110,3 +110,15 @@ GitHub Link: https://github.com/neurominer-git/NeuroMiner-1]
 Notes: 
 * Data was analyzed a while ago (2019-2020), so may not be runnable. 
 * Also, the reproducibility is weak because of the model of individual prognostic estimates it seems
+
+Paper 9
+Identifying the neurodevelopmental and psychiatric signatures of genomic disorders associated with intellectual disability: a machine learning approach
+
+Paper Link: https://link.springer.com/article/10.1186/s13229-023-00549-2
+
+Summary: A simple screening tool to identify young people with genomic conditions associated with neurodevelopmental disorders (ND-GCs) who could benefit from further support would be of considerable value. We used machine learning approaches to address this question.
+
+GitHub Link: https://github.com/NADonnelly/nd_cnv_ml,
+
+Notes: 
+* Reproducible data, seemingly easily formatted, and fitted models are presented as an interactive Shiny app: https://nadonnelly.shinyapps.io/cnv_ml_app/. 
