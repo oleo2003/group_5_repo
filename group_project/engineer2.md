@@ -40,3 +40,33 @@
 **Conclusion**
 
 - Cannot run normally as excel file is missing from repository
+
+### Paper 3 – A machine-learning based objective measure for ALS disease severity
+
+- **Link to paper**: https://www.nature.com/articles/s41746-022-00588-8
+- **Code repo**: https://github.com/PMPhelp/paper-code
+
+**What we tried**
+
+- Cloned the GitHub repository and verified all code files were present
+- Installed required dependencies (tensorflow, keras, numpy)
+- Ran all provided Python scripts
+- Reviewed .py files to identify model training, evaluation, and output steps
+
+**What we observed**
+
+- Scripts executed without runtime errors
+- Code consists of model architecture definitions and preprocessing layers only
+- No scripts initiate training or evaluation directly
+- Running the files produced no terminal output and no saved result or figure files
+
+**What went wrong**
+
+- The repository doesn't include any end-to-end pipeline or post-processing code to reproduce the paper’s figures or metrics
+- Additional custom scripts would be required to train models, export predictions, and generate figures
+
+**Conclusion**
+
+- The provided code does not reproduce any experimental results on its own
+- Reproducing the paper’s figures is not possible using the repository as-is
+- This represents a reproducibility limitation despite access to the model definitions
