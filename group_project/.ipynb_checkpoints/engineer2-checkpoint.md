@@ -88,6 +88,24 @@
 
 - Discard --> no data to run with the code
 
+### Paper 7 - Predicting involuntary admission following inpatient psychiatric treatment using machine learning trained on electronic health record data
+
+- **Link to paper**: https://www-cambridge-org.avoserv2.library.fordham.edu/core/journals/psychological-medicine/article/predicting-involuntary-admission-following-inpatient-psychiatric-treatment-using-machine-learning-trained-on-electronic-health-record-data/BA8F21BBB66E0A6E49D792123C3FC093
+- **Code repo**: https://github.com/Aarhus-Psychiatry-Research/psycop-common/tree/main/psycop/projects/forced_admission_inpatient
+
+**What we tried**
+
+- First solid readme with a good walkthrough of the pipeline
+- Cloned to work with the .py files in my terminal
+
+**What went wrong**
+
+- Upon looking through the paper, realized the patient-level data is not to be shared according to law
+
+**Conclusion**
+
+- Very interesting code, however have to discard because of the data
+
 ### Paper 10 - An evaluation of machine learning approaches for early diagnosis of autism spectrum disorder
 
 - **Link to paper**: https://www.sciencedirect.com/science/article/pii/S2772442523001600
