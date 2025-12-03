@@ -43,8 +43,8 @@
 
 ### Paper 3 – A machine-learning based objective measure for ALS disease severity
 
-- **Link to paper**: https://www.nature.com/articles/s41746-022-00588-8
-- **Code repo**: https://github.com/PMPhelp/paper-code
+- **Link to paper**: https://www.nature.com/articles/s41746-022-00588-8#Abs1
+- **Code repo**:  https://github.com/pmphelp/paper-code
 
 **What we tried**
 
@@ -70,3 +70,22 @@
 - The provided code does not reproduce any experimental results on its own
 - Reproducing the paper’s figures is not possible using the repository as-is
 - This represents a reproducibility limitation despite access to the model definitions
+
+### Paper 10 - An evaluation of machine learning approaches for early diagnosis of autism spectrum disorder
+
+- **Link to paper**: https://www.sciencedirect.com/science/article/pii/S2772442523001600
+- **Code repo**: https://github.com/diponkor-bala/Autism-Spectrum-Disorder/tree/main
+
+**What we tried**
+
+- Cloned repository, looked like a lot of good .ipynb files to work with
+- Nowhere to find instructions or files used
+
+**What went wrong**
+
+- Everything was ran on their google colab which is not provided access
+- All files were in their google drive without access to public
+
+**Conclusion**
+
+- Discard --> cant reproduce without data
