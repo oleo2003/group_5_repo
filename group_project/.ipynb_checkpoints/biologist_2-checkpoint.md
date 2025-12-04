@@ -84,55 +84,3 @@ GitHub Link: https://github.com/leocob/eirpsy/blob/main/02_bigstatsr/bigstatsr
 Notes: 
 * I am not sure what format Github code is in…it seems that there are multiple formats? 
 * This paper has not been reviewed by a journal officially. Can we still use it? 
-
-Paper 7
-Predicting involuntary admission following inpatient psychiatric treatment using machine learning trained on electronic health record data
-
-
-Paper Link: https://www-cambridge-org.avoserv2.library.fordham.edu/core/journals/psychological-medicine/article/predicting-involuntary-admission-following-inpatient-psychiatric-treatment-using-machine-learning-trained-on-electronic-health-record-data/BA8F21BBB66E0A6E49D792123C3FC093
-
-Summary: This study looks at psychiatric admittance retrospectively using machine learning through EHR.
-
-GitHub Link: https://github.com/Aarhus-Psychiatry-Research/psycop-common/tree/main/psycop/projects/forced_admission_inpatient.
-
-Notes: 
-* Really interesting topic for public healthcare admin, but I am not sure how publicly available data is for use
-
-Paper 8
-Multimodal Machine Learning Workflows for Prediction of Psychosis in Patients With Clinical High-Risk Syndromes and Recent-Onset Depression
-
-Paper Link: https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2773732
-
-Summary: This study looks for a transition to psychosis be predicted in patients with clinical high-risk states or recent-onset depression by optimally integrating clinical, neurocognitive, neuroimaging, and genetic information with clinicians’ prognostic estimates. Personalized prevention is utilized via prognostic workflows
-
-GitHub Link: https://github.com/neurominer-git/NeuroMiner-1]
-
-Notes: 
-* Data was analyzed a while ago (2019-2020), so may not be runnable. 
-* Also, the reproducibility is weak because of the model of individual prognostic estimates it seems
-
-Paper 9
-Identifying the neurodevelopmental and psychiatric signatures of genomic disorders associated with intellectual disability: a machine learning approach
-
-Paper Link: https://link.springer.com/article/10.1186/s13229-023-00549-2
-
-Summary: A simple screening tool to identify young people with genomic conditions associated with neurodevelopmental disorders (ND-GCs) who could benefit from further support would be of considerable value. We used machine learning approaches to address this question.
-
-GitHub Link: https://github.com/NADonnelly/nd_cnv_ml,
-
-Notes: 
-* Reproducible data, seemingly easily formatted, and fitted models are presented as an interactive Shiny app: https://nadonnelly.shinyapps.io/cnv_ml_app/. 
-
-
-Paper 10
-An evaluation of machine learning approaches for early diagnosis of autism spectrum disorder
-
-Paper Link: https://www.sciencedirect.com/science/article/pii/S2772442523001600
-
-Summary: Eight classification models and five clustering methods to ASD datasets to make a unique population dataset for a holistic assessment for machine learning approaches for early diagnosis of Autism Spectrum Disorder (ASD).
-
-GitHub Link: https://github.com/diponkor-bala/Autism-Spectrum-Disorder
-
-Notes: 
-* Combined format of Jupyter notebook and Python code. Looks reproducible
-
