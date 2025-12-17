@@ -138,3 +138,26 @@ This document tracks all papers we have actually tried to reproduce: what we ran
 
 **Conclusion**
 - could have been so cool and probably would have worked, but i need the cluster....
+
+## Paper 7 - A computational approach to study age-related modifications of the genes involved in Parkinson's disease
+**What we tried**
+- cloned repo, downloaded tools: pip install pandas scipy matplotlib networkx openpyxl requests
+- fixed the locations (/Users/liv/Desktop...[file location/destination]) 
+- ran! 
+- got output files, but with limited data that did not entirely match up to the original paper's 
+- attempted to fix the edge function, then node function, and tried changing parameters. The output did change but stated limited. Some generated pngs were even blank.
+
+**Conclusion**
+- give up on this one, not worth the time debugging the output. 
+
+## Paper 8 - Persistent Interruption in Parvalbumin-Positive Inhibitory Interneurons: Biophysical and Mathematical Mechanisms
+**What we tried**
+- cloned repo, analyzed the files.
+- checked tools (all already installed)
+- ran "nrnivmodl", then tried ./arm64... compile -> error!
+- had to search the file a bit more, found that there is not main.hoc to run ./arm64 for. 
+- instead, ran the python files since arm64 folder was generated. All figures worked, but were as popups, and needed to manually run python files 1-5. 
+- created my own python file to run each python figure file and automatically save to an "outputs" folder.
+
+**Conclusion**
+- SUCCESS!! Use this to present because: smooth workflow, cool tool (NEURON), interesting and peer-reviewed paper, many generated figures. 
